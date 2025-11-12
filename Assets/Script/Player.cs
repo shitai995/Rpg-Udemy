@@ -15,6 +15,8 @@ public class Player : MonoBehaviour
     void Update()
     {
         xInput = Input.GetAxisRaw("Horizontal");
+
+
         Debug.Log(xInput);
     }
 }
