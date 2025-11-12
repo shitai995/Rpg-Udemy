@@ -1,0 +1,45 @@
+# Unity 本地缓存和临时文件
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Packages/**/.Runtime/
+BurstCache/
+ShaderCache/
+Globalgamemanagers
+Globalgamemanagers.meta
+Level0
+Level0.meta
+MemorySnapshot_*.raw
+*.stacktrace
+
+# IDE 配置文件
+.vs/
+.vsconfig
+*.sln
+*.csproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.log
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 构建产物
+Build/
+Builds/
+*.apk
+*.aab
+*.exe
+*.zip
+*.unitypackage
+
+# 其他无用文件
+obj/
